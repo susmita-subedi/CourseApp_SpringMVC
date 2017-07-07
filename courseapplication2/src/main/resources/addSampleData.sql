@@ -1,0 +1,1 @@
+INSERT INTO `cs548_springmvc2_studentdb`.`student` (`id`, `lastName`, `firstName`, `age`, `gender`) VALUES ('1', 'Jefferson', 'Bill', '23', '0');
